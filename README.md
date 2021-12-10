@@ -1,4 +1,4 @@
-<h1 align="center">Welcome to book-list 👋</h1>
+<h1 align="center">Lista de Leitura (DevSamurai) 📒</h1>
 <p>
   <img alt="Version" src="https://img.shields.io/badge/version-1.0.0-blue.svg?cacheSeconds=2592000" />
   <a href="#" target="_blank">
@@ -17,13 +17,13 @@
 -   Expo
 -   react-navigation
 
-## Usage
+## Como usar?
 
 ```sh
 expo start
 ```
 
-## Author
+## Autor
 
 👤 **JaelysonM**
 
@@ -33,4 +33,4 @@ expo start
 
 ## Show your support
 
-Dê uma ⭐️ se gostou desse projeto.
+Dê um ⭐️ se gostou desse projeto.
