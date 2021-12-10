@@ -31,6 +31,6 @@ expo start
 -   Github: [@JaelysonM](https://github.com/JaelysonM)
 -   LinkedIn: [@JaelysonMartins](https://linkedin.com/in/JaelysonMartins)
 
-## Show your support
+## Mostre seu suporte!
 
 Dê um ⭐️ se gostou desse projeto.
